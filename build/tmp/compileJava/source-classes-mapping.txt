@@ -1,10 +1,12 @@
+config/ApplicationInitializer.java
+ config.ApplicationInitializer
+config/ApplicationConfig.java
+ config.ApplicationConfig
+model/User.java
+ model.User
 model/Product.java
  model.Product
 service/ProductService.java
  service.ProductService
-config/ApplicationInitializer.java
- config.ApplicationInitializer
 controller/ProductController.java
  controller.ProductController
-config/ApplicationConfig.java
- config.ApplicationConfig
